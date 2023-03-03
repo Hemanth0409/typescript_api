@@ -1,0 +1,24 @@
+[{
+        "ProductId": 101,
+        "ProductName": "lays",
+        "Price": 5,
+        "Quantity": 10
+    }, {
+        "ProductId": 102,
+        "ProductName": "puffcorn",
+        "Price": 5,
+        "Quantity": 20
+    },
+    {
+        "ProductId": 103,
+        "ProductName": "little hearts",
+        "Price": 5,
+        "Quantity": 10
+    },
+    {
+        "ProductId": 104,
+        "ProductName": "lays",
+        "Price": 10,
+        "Quantity": 20
+    }
+]
